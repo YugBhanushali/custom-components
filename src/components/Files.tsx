@@ -32,7 +32,7 @@ export function DialogCloseButton() {
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <Button variant="outline">Share</Button>
+        <Button variant="outline">Select files</Button>
       </DialogTrigger>
       <DialogContent className="sm:max-w-md">
         <DialogHeader>
