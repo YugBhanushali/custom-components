@@ -2,6 +2,6 @@
 
 [Demo video](./examples/demo.mov)
 
-# you can get the component from this path
+# Components
 
-[Component link](https://github.com/YugBhanushali/custom-components/blob/main/src/components/Files.tsx)
+[Input file component](https://github.com/YugBhanushali/custom-components/blob/main/src/components/Files.tsx)
